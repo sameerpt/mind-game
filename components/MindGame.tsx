@@ -237,6 +237,7 @@ export default function MindGame() {
         >
           {matchWinner ? "NEW ADVENTURE" : "RESTART GRID"}
         </button>
+        
       </div>
     </div>
   );
